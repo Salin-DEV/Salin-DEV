@@ -25,11 +25,7 @@
  
   ![Snake animation](https://github.com/Salin-DEV/Salin-DEV/blob/output/github-contribution-grid-snake.svg)
 
- 
-</div>
- 
- 
- name: Generate Datas
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -54,3 +50,17 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</div>
+ 
+ 
