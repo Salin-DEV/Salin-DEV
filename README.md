@@ -5,7 +5,7 @@
 - [linkendin](https://web.dio.me/users/saliindev?tab=skills)
 - [Perfil DIO](https://web.dio.me/users/saliindev?tab=skills)
   
-##linguagens 
+## linguagens 
 
 - **Java**
 - **Angular**
