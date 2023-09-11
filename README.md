@@ -2,7 +2,7 @@
 Breve descrição sobre você.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/saliindev?tab=skills)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)]([https://web.dio.me/users/SEUUSERNAME/](https://web.dio.me/users/saliindev?tab=skills))
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](saliindev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/salin-dev-256642276/)
 
